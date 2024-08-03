@@ -1,3 +1,8 @@
+// Name: Manan Vansia
+// File: main.js
+// Date: 28 July 2024
+// Description: Assignment 4 Part 2 (Image Gallery)
+
 const displayedImage = document.querySelector('.displayed-img');
 const thumbBar = document.querySelector('.thumb-bar');
 
