@@ -1,3 +1,8 @@
+// Name: Manan Vansia
+// File: main.js
+// Date: 28 July 2024
+// Description: Assignment 4 Part 3 (Bouncing Balls)
+
 // setup canvas
 
 const canvas = document.querySelector("canvas");
