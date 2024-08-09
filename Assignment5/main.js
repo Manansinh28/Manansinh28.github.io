@@ -1,3 +1,8 @@
+// Name: Manan Vansia
+// File: main.js
+// Date: 09 Auguest 2024
+// Description: Assignment 5 (Accessibility troubleshooting)
+
 // functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
